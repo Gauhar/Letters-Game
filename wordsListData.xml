@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<pack_for_two_catagories>
+	<Country>
+		<A>
+			<word> America </word>
+			<word> Afghanistan </word>
+			<word> Australia </word>
+		</A>
+
+		<B>
+			<word> Brazil </word>
+			<word> Bangladesh </word>
+			<word> Bahrain </word>
+		</B>
+
+		<C>
+			<word> Canada </word>
+			<word> China </word>
+			<word> Colombia </word>
+			<word> Cuba </word>
+		</C>
+
+		<D>
+			<word> Denmark </word>
+			<word> Dominica </word>
+		</D>
+
+
+	</Country>
+
+	<Sports>
+
+	</Sports>
+
+</pack_for_two_catagories>
+
+
+
+

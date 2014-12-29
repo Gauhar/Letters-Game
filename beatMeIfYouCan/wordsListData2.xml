@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+
+<ListFile>
+    <pack_for_two_catagories id="pk01">
+        <catagories>
+            <!--
+            <catagory name = "Country">
+                <letter id= "A">
+                    <word>America</word>
+                    <word>Afghanistan</word>
+                    <word>Australia</word>
+                </letter>
+                <letter id= "B">
+                    <word>Brazil</word>
+                    <word>Bangladesh</word>
+                    <word>Bahrain</word>
+                </letter> 
+                <letter id= "C">
+                    <word>Canada</word>
+                    <word>China</word>
+                    <word>Colombia</word>
+                    <word>Cuba</word>
+                </letter>
+                <letter id="D">
+                    <word>Denmark</word>
+                    <word>Dominica</word>
+                </letter>
+            </catagory>
+            -->
+            <catagory name ="Food">
+                <letter id="A">
+                    <foodName>Asian Noodles</foodName>
+                    <foodName>Avacado Sandwich</foodName>
+                </letter>
+                <letter id="B">
+                    <foodName>Baked Beans</foodName>
+                    <foodName>Biryani</foodName>
+                    <foodName>Breaded Wings</foodName>
+                </letter>
+                <letter id="C">
+                    <foodName>Chicken Tikka</foodName>
+                    <foodName>Chicken Tou Fou</foodName>
+                </letter>
+                <letter id="D">
+                    <foodName>Drumsticks</foodName>
+                    <foodName>Duck Roast</foodName>  
+                </letter>  
+            </catagory>
+
+        </catagories>
+    </pack_for_two_catagories>
+
+<!--    
+    <pack_for_two_catagories id ="pk02">
+        <catagories name ="Drinks">
+            <letter id="A">
+                <drinkName> Abilene </drinkName>
+                
+                <drinkName> Absent Friend </drinkName>
+                
+                <drinkName> Apple Juice </drinkName>
+            </letter>
+            
+            <letter id="B">
+                <drinkName> B-53 </drinkName>
+                <drinkName> Baby V.O.X </drinkName>
+                <drinkName> Bacardi Geezer </drinkName>
+            </letter>
+            
+            <letter id="C">
+                <drinkName> Cabin Cooler </drinkName>
+                <drinkName> Cactus Cola </drinkName>
+                <drinkName> Cadiz </drinkName>
+            </letter>
+            
+        </catagories>
+        
+        <catagories name ="Fruits">
+            
+            <letter id="A">
+                <fruitName> Apple </fruitName>
+                <fruitName> Apricot </fruitName>
+                <fruitName> Angelica </fruitName>
+            </letter>
+            
+            <letter id="B">
+                <fruitName> Banana </fruitName>
+                <fruitName> Blueberry </fruitName>
+                <fruitName> Blackberry </fruitName>
+            </letter>
+            
+            <letter id="C">
+                <fruitName> Citron </fruitName>
+                <fruitName> Cherry </fruitName>
+                <fruitName> Carambola </fruitName>
+            </letter>
+        </catagories>
+        
+    </pack_for_two_catagories>
+-->
+    
+</ListFile>
+
+
+
+
+
